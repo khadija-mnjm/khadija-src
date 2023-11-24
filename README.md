@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @khadija-src
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @khadija-mounajjim
+- 👀 I’m interested in develomppent digital
+- 🌱 I’m currently learning programation 
+- 💞️ I’m looking to collaborate on gb  
+- 📫 How to reach me ✨
 
 <!---
 khadija-src/khadija-src is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
